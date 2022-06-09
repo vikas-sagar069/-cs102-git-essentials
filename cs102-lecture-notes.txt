@@ -4,3 +4,4 @@ git push
 ls -al
 git pull
 git status
+in today's lecture i learned how to make repository and then how to commit and push changes in a repository and then to pull chnages from github to local machine.
